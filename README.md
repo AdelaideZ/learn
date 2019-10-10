@@ -1,2 +1,2 @@
 # learn
-leetcode by python
+My own learninghome
